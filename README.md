@@ -1,25 +1,30 @@
-# Repository Template
+# Technical Debt
 
-<a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+<a href="https://github.com/VasileUngureanu/ways-of-working/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A template for creating new repositories
+> A collection of resources about Technical Debt
 
-This repository is meant to serve as a template for how to set up new general purpose repositories.
+## Contents
 
-## What's included
+* [Understand Legacy Code](https://understandlegacycode.com/)
 
-* Issue & Pull Request Templates
-* CODE_OF_CONDUCT.md
-* CONTRIBUTING.md
-* LICENSE
-* README.md
+* [Technical Debt... GURU LEVEL UNLOCKED!](https://fernandocejas.com/2019/06/13/technical-debt-guru-level-unlocked/)
+
+* [Technical Debt Is like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/)
+
+* [The Wall of Technical Debt](https://verraes.net/2020/01/wall-of-technical-debt/)
+
+* [Refactoring Legacy Code](https://www.youtube.com/watch?v=1ap11RbVGik&list=PLqew6vQ7CzHI4gR0u3t7-F_suq8W044us)
+
+* [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
+
+* [How technical debt and product success are related](https://medium.com/unboxing-product-management/how-technical-debt-and-product-success-are-related-3e93bb4f6db0)
 
 ## Usage
 
-1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
 1. After local cloning run `./bootstrap.sh`.
 
 License
 -------
 
-[MIT](LICENSE) @ 2019 Vasile Ungureanu
+[MIT](LICENSE) @ 2020 Vasile Ungureanu
