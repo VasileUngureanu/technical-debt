@@ -8,7 +8,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
-* [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?ac=1&from_search=true&qid=eMoqIXyKNQ&rank=2)
+* ["Working Effectively with Legacy Code" book](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?ac=1&from_search=true&qid=eMoqIXyKNQ&rank=2)
 * [Understand Legacy Code](https://understandlegacycode.com/)
 * [Technical Debt... GURU LEVEL UNLOCKED!](https://fernandocejas.com/2019/06/13/technical-debt-guru-level-unlocked/)
 * [Technical Debt Is like a Tetris Game](https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/)
