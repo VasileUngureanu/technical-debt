@@ -21,6 +21,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Refactoring Legacy Code](https://www.youtube.com/watch?v=1ap11RbVGik&list=PLqew6vQ7CzHI4gR0u3t7-F_suq8W044us)
 * [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 * [How technical debt and product success are related](https://medium.com/unboxing-product-management/how-technical-debt-and-product-success-are-related-3e93bb4f6db0)
+* [The Legacy of SoCraTes](https://www.youtube.com/channel/UC0M37QolwmwobAY4Bt8Tszg)
 
 ## Usage
 
